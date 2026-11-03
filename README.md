@@ -1,4 +1,4 @@
-# Cube-Warper-Ru
+# Cube Warper-Ru
 
 Информация: Перевод квестов и прочего контента в сборке Cube Warper. Ссылка на [сборку](https://www.curseforge.com/minecraft/modpacks/cube-warper)
 
